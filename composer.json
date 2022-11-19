@@ -2,8 +2,7 @@
     "name": "samman/yii-slim-image-cropper",
     "type": "yii2-extension",
     "require": {
-    	"yiisoft/yii2": "*",
-        "yidas/yii2-composer-bower-skip": "^2.0"
+    	"yiisoft/yii2": "*"
     },
     "minimum-stability": "stable",
     "autoload": {
