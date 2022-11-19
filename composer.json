@@ -1,0 +1,25 @@
+{
+    "name": "samman/yii-slim-image-cropper",
+    "type": "yii2-extension",
+    "require": {
+    	"yiisoft/yii2": "*",
+        "yidas/yii2-composer-bower-skip": "^2.0"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Samman\\YiiSlimImageCropper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samman",
+            "email": "mazenalsmman@gmail.com"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "yiisoft/yii2-composer": true
+        }
+    }
+}
