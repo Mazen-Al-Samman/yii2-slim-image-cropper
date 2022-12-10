@@ -15,6 +15,7 @@ class SlimImageCropper extends InputWidget
     public $label = "Drop your avatar here";
     public $dataSize = null;
     public $dataMinSize = null;
+    public $dataMaxFileSize = 3;
     public $dataForceSize = null;
     public $dataForceMinSize = false;
     public $dataPush = true;
